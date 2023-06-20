@@ -6,6 +6,6 @@ Para rodar esse projeto em sua maquina, por favor digite:
 
 
 ```
-rpm install
+npm install
 
 ```
