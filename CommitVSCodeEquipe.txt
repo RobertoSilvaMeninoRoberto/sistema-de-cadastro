@@ -1,0 +1,5 @@
+Commit, VSCode e equipe-> Vamos descobrir como salvar alterações no histórico do projeto Git.
+Nesta aula:
+Aprendemos a acessar o VS Code por meio do GitHub;
+Convidamos um colaborador em um repositório do GitHub;
+Entendemos como verificar o histórico de commits realizados.
